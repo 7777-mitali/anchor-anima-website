@@ -65,7 +65,7 @@ export default function Contact() {
   const contacts = [
     { icon: "📞", label: "Phone / WhatsApp", value: "+91 63768 86806", href: "tel:+916376886806", color: "rgba(255,107,107,0.15)" },
     { icon: "✉️", label: "Email", value: "animagahlot06@gmail.com", href: "mailto:animagahlot06@gmail.com", color: "rgba(78,205,196,0.15)" },
-    { icon: "📸", label: "Instagram", value: "@anima.gehlot", href: "https://www.instagram.com/anchor_anima?igsh=Zmg1ZzJ5Nzdzcmgy&utm_source=qr", color: "rgba(168,85,247,0.15)" },
+    { icon: "📸", label: "Instagram", value: "@anchor_anima", href: "https://www.instagram.com/anchor_anima?igsh=Zmg1ZzJ5Nzdzcmgy&utm_source=qr", color: "rgba(168,85,247,0.15)" },
   ];
 
   return (
