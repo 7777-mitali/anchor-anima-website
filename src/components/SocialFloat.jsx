@@ -1,8 +1,8 @@
 export default function SocialFloat() {
   const socials = [
     { href: "https://www.instagram.com/anchor_anima?igsh=Zmg1ZzJ5Nzdzcmgy&utm_source=qr", icon: "📸", label: "Instagram" },
-    { href: "tel:+916376886806", icon: "📞", label: "Call" },
-    { href: "mailto:animagahlot06@gmail.com", icon: "✉️", label: "Email" },
+    { href: "tel:+916376886896", icon: "📞", label: "Call" },
+    { href: "mailto:animagahlot96@gmail.com", icon: "✉️", label: "Email" },
   ];
 
   return (
