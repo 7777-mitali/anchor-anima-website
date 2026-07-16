@@ -31,8 +31,8 @@ export default function Footer() {
         <div style={{ display: "flex", gap: "0.75rem" }}>
           {[
             { href: "https://www.instagram.com/anchor_anima?igsh=Zmg1ZzJ5Nzdzcmgy&utm_source=qr", label: "📸" },
-            { href: "tel:+918989898989", label: "📞" },
-            { href: "mailto:animagehlot99@gmail.com", label: "✉️" },
+            { href: "tel:+916376886806", label: "📞" },
+            { href: "mailto:animagehlot06@gmail.com", label: "✉️" },
           ].map(({ href, label }) => (
             <a key={label} href={href} target={href.startsWith("http") ? "_blank" : undefined} rel="noreferrer"
               style={{
