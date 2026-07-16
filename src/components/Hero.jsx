@@ -47,7 +47,7 @@ export default function Hero() {
           marginTop: "3rem",
         }}>
           {[
-            { num: "50+", label: "Events Hosted" },
+            { num: "500+", label: "Events Hosted" },
             { num: "5★", label: "Client Rating" },
             { num: "3+", label: "Years Exp." },
           ].map(({ num, label }) => (
