@@ -54,7 +54,7 @@ export default function Footer() {
         borderTop: "1px solid rgba(255,255,255,0.06)", marginTop: "2rem", paddingTop: "1.5rem",
         textAlign: "center", color: "rgba(255,255,255,0.3)", fontSize: "0.8rem",
       }}>
-        © 2025 Anima Gehlot. All rights reserved. Made by Mitali Soni.
+        © 2024 Anima Gehlot. All rights reserved. Made by Mitali Soni.
       </div>
     </footer>
   );
